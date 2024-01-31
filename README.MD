@@ -7,3 +7,4 @@ This is first commit
 
 # rebase
 * rebase is another merge strategy
+* Now devlopment is completed
